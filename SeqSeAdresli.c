@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-char sequentialsearch(char *A,char k,int n)
+char *sequentialsearch(char *A,char k,int n)
 {
 	int i=1;
 	
