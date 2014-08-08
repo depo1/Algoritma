@@ -1,4 +1,6 @@
 
+// hataları ayıkladım ama algoritmayı düzeltmen gerekiyor dogru sonuç vermesi için
+
 #include <stdio.h>
 #include <stdlib.h>
 
